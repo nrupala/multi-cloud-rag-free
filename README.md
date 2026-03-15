@@ -1,5 +1,7 @@
 # Multi-Cloud Free Tier RAG Training Platform
-## <under development>
+
+## Currently under development
+<a href="https://github.com/nrupala/multi-cloud-rag-free">GitHub Repo: Multi cloud RAG Free</a></p>
 Oracle 24GB/400GB + GCP/Azure/AWS micros; K8s-federated Haystack/Milvus/Ollama.
 
 ##Execution Plan: Multi-Cloud RAG Training Platform (No Spot GPU)
