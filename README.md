@@ -1,3 +1,9 @@
+# ARCHIVED — FINISHED EXPERIMENT (2026-10-26)
+
+This repository was a free-tier multi-cloud RAG experiment. The experiment is finished and the repository is archived as its record.
+
+---
+
 # Multi-Cloud Free Tier RAG Training Platform
 
 ## Currently under development
